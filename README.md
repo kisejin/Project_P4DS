@@ -2,5 +2,5 @@
 
 * Cài đặt thư viện
 ```bash
-pip install -r requirement
+pip install -r requirement.txt
 ```
